@@ -1,5 +1,5 @@
 # ErkMate
-Free Adult Game<br />
+Free Adult Game (Windows,Linux,Mac) <br />
 
 This project is free , updating it takes time and effort , so please consider donating to help the project<br />
 Magnet Link from here (don't forget to seed !):<br />
